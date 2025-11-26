@@ -1,4 +1,4 @@
-# Advanced Programming with Python 🐍
+# Advanced Programming with Python 
 
 This repository contains a collection of laboratory exercises for the university course **"Advanced Programming with Python"**. The projects progress from Object-Oriented Programming (OOP) principles to advanced data analysis, visualization, and real-time API integration.
 
