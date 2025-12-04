@@ -1,6 +1,6 @@
 # Advanced Programming with Python 
 
-This repository contains a collection of exercises for **"Advanced Programming with Python"**. The projects progress from Object-Oriented Programming (OOP) principles to advanced data analysis, visualization, and real-time API integration.
+This repository contains a collection Python scripts developed. The projects progress from Object-Oriented Programming (OOP) principles to advanced data analysis, visualization, and real-time API integration.
 
 ## 📂 Repository Structure
 
