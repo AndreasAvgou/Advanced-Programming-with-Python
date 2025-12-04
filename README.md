@@ -6,7 +6,7 @@ This repository contains a collection of laboratory exercises for the university
 
 The exercises are organized into 6 modules, each focusing on specific advanced Python concepts:
 
-### 🔹 Lab 1: Introduction to Pandas
+### 🔹 1: Introduction to Pandas
 * **Focus:** Basic DataFrame manipulation.
 * **Description:** An analysis of a small retail dataset (`products_sales.csv`).
 * **Key Tasks:**
@@ -14,7 +14,7 @@ The exercises are organized into 6 modules, each focusing on specific advanced P
     * Grouping data to find average prices per category.
     * Sorting and identifying top-value products.
 
-### 🔹 Lab 2: Object-Oriented Student Manager
+### 🔹 2: Object-Oriented Student Manager
 * **Focus:** Classes, Methods, and File I/O.
 * **Description:** Implementation of a `StudentManager` system to handle student records.
 * **Key Features:**
@@ -23,7 +23,7 @@ The exercises are organized into 6 modules, each focusing on specific advanced P
     * **CSV Import/Export** functionality with error handling.
     * *Bonus:* Visualization of class grades using `matplotlib`.
 
-### 🔹 Lab 3: Sales Manager System
+### 🔹 3: Sales Manager System
 * **Focus:** Integrating OOP with Pandas.
 * **Description:** A `SalesManager` class designed to track store transactions.
 * **Key Features:**
@@ -31,7 +31,7 @@ The exercises are organized into 6 modules, each focusing on specific advanced P
     * Conversion of transaction objects into a Pandas DataFrame.
     * Analytics methods: `total_sales_per_category()` and `top_selling_products()`.
 
-### 🔹 Lab 4: Real-World Data Analysis
+### 🔹 4: Real-World Data Analysis
 * **Focus:** Data Cleaning and Exploratory Data Analysis (EDA).
 * **Description:** Processing a raw e-commerce dataset (`sales_data.csv`).
 * **Key Tasks:**
@@ -39,7 +39,7 @@ The exercises are organized into 6 modules, each focusing on specific advanced P
     * **Feature Engineering:** Creating new columns (e.g., Total Sales).
     * **Visualization:** Bar charts showing sales by category and country.
 
-### 🔹 Lab 5: Crypto Financial Analysis (API) 🪙
+### 🔹 5: Crypto Financial Analysis (API) 🪙
 * **Focus:** REST APIs, Financial Metrics, and Correlation.
 * **Description:** A financial tool that fetches historical data for 5 cryptocurrencies (Bitcoin, Ethereum, etc.) using the **CoinGecko API**.
 * **Key Features:**
@@ -47,7 +47,7 @@ The exercises are organized into 6 modules, each focusing on specific advanced P
     * Calculating **Daily Returns**, **Volatility**, and **Pearson Correlation**.
     * Interactive visualizations using **Plotly** (Time series & Heatmaps).
 
-### 🔹 Lab 6: Flight Radar Analysis (API) ✈️
+### 🔹 6: Flight Radar Analysis (API) ✈️
 * **Focus:** Real-time Data, Geo-spatial Data, and Anomaly Detection.
 * **Description:** Analysis of live aircraft data using the **OpenSky Network API**.
 * **Key Features:**
@@ -55,6 +55,17 @@ The exercises are organized into 6 modules, each focusing on specific advanced P
     * **Z-Score Analysis:** Detecting anomalies in aircraft velocity.
     * Geo-spatial filtering and Pivot Tables (Country vs. Velocity).
     * Scatter plots mapping aircraft positions (Longitude/Latitude).
+
+---
+
+### 🔹 7: Text Analysis & NLP 📝
+* **Focus:** Modular Programming, Regex, and Natural Language Processing.
+* **Description:** A text mining project analyzing public sentiment and trends using a dataset of tweets (`energy_tweets.csv`).
+* **Key Features:**
+    * **Modular Architecture:** Code split into 5 specialized modules (Loader, Cleaner, Analyzer, Visualizer, Main).
+    * **Advanced Cleaning:** Utilizing **Regex** to strip URLs, mentions, and noise.
+    * **Frequency Analysis:** Extracting trending hashtags and calculating word distributions.
+    * **Visualization:** Generating bar charts for top words and hashtags using `matplotlib`.
 
 ---
 
