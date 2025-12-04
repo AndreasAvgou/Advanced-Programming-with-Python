@@ -1,10 +1,12 @@
 # Advanced Programming with Python 
 
-This repository contains a collection of laboratory exercises for the university course **"Advanced Programming with Python"**. The projects progress from Object-Oriented Programming (OOP) principles to advanced data analysis, visualization, and real-time API integration.
+This repository contains a collection of exercises for **"Advanced Programming with Python"**. The projects progress from Object-Oriented Programming (OOP) principles to advanced data analysis, visualization, and real-time API integration.
 
 ## 📂 Repository Structure
 
-The exercises are organized into 6 modules, each focusing on specific advanced Python concepts:
+The exercises are organized into 7 modules, each focusing on specific advanced Python concepts:
+
+---
 
 ### 🔹 1: Introduction to Pandas
 * **Focus:** Basic DataFrame manipulation.
@@ -13,6 +15,8 @@ The exercises are organized into 6 modules, each focusing on specific advanced P
     * Calculating total value per product ($Price \times Quantity$).
     * Grouping data to find average prices per category.
     * Sorting and identifying top-value products.
+
+---
 
 ### 🔹 2: Object-Oriented Student Manager
 * **Focus:** Classes, Methods, and File I/O.
@@ -23,6 +27,8 @@ The exercises are organized into 6 modules, each focusing on specific advanced P
     * **CSV Import/Export** functionality with error handling.
     * *Bonus:* Visualization of class grades using `matplotlib`.
 
+---
+
 ### 🔹 3: Sales Manager System
 * **Focus:** Integrating OOP with Pandas.
 * **Description:** A `SalesManager` class designed to track store transactions.
@@ -30,6 +36,8 @@ The exercises are organized into 6 modules, each focusing on specific advanced P
     * Dynamic addition of sales via the `add_sale()` method.
     * Conversion of transaction objects into a Pandas DataFrame.
     * Analytics methods: `total_sales_per_category()` and `top_selling_products()`.
+
+---
 
 ### 🔹 4: Real-World Data Analysis
 * **Focus:** Data Cleaning and Exploratory Data Analysis (EDA).
@@ -39,6 +47,8 @@ The exercises are organized into 6 modules, each focusing on specific advanced P
     * **Feature Engineering:** Creating new columns (e.g., Total Sales).
     * **Visualization:** Bar charts showing sales by category and country.
 
+---
+
 ### 🔹 5: Crypto Financial Analysis (API) 🪙
 * **Focus:** REST APIs, Financial Metrics, and Correlation.
 * **Description:** A financial tool that fetches historical data for 5 cryptocurrencies (Bitcoin, Ethereum, etc.) using the **CoinGecko API**.
@@ -46,6 +56,8 @@ The exercises are organized into 6 modules, each focusing on specific advanced P
     * Fetching 30-day historical data and resampling time-series.
     * Calculating **Daily Returns**, **Volatility**, and **Pearson Correlation**.
     * Interactive visualizations using **Plotly** (Time series & Heatmaps).
+
+---
 
 ### 🔹 6: Flight Radar Analysis (API) ✈️
 * **Focus:** Real-time Data, Geo-spatial Data, and Anomaly Detection.
