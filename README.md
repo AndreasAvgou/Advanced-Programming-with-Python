@@ -4,7 +4,7 @@ This repository contains a collection Python scripts developed. The projects pro
 
 ## 📂 Repository Structure
 
-The exercises are organized into 7 modules, each focusing on specific advanced Python concepts:
+The exercises are organized into 8 modules, each focusing on specific advanced Python concepts:
 
 ---
 
@@ -78,6 +78,18 @@ The exercises are organized into 7 modules, each focusing on specific advanced P
     * **Advanced Cleaning:** Utilizing **Regex** to strip URLs, mentions, and noise.
     * **Frequency Analysis:** Extracting trending hashtags and calculating word distributions.
     * **Visualization:** Generating bar charts for top words and hashtags using `matplotlib`.
+
+---
+
+### 🔹 8: Spotify Audio Analysis 🎧
+* **Focus:** Descriptive Statistics, Correlation Analysis, and Visualization.
+* **Description:** Analyzing a dataset of music tracks and their audio features (energy, danceability, tempo, etc.) using `data.csv`.
+* **Key Features:**
+    * **Data Loading:** Converting raw CSV data into a Pandas DataFrame.
+    * **Statistical Analysis:** Using `.describe()` and `.corr()` to understand feature distributions.
+    * **Correlation Heatmap:** Visualizing feature relationships using `seaborn`.
+    * **Feature Insights:** Identifying which audio characteristics correlate most with high "Energy" tracks.
+    * **Visualization:** Bar charts displaying the average intensity of each audio feature.
 
 ---
 
