@@ -106,18 +106,23 @@ pip install pandas numpy matplotlib requests plotly
 Ensure you have Python installed (version 3.x is recommended).
 
 1.  Clone the repository.
+   
 ```bash
 git clone [https://github.com/yourusername/advanced-python-labs.git](https://github.com/yourusername/advanced-python-labs.git)
 ```
+
 2.  Navigate to the directory.
+
 ```bash
 cd Advanced-Programming-with-Python
 ```
+
 3.  Run specific exercises (ensure required CSV files are in the same directory):
 
 ```bash
 python main.py
 ```
+
 ## 📝 Key Learning Outcomes
 Through these exercises, the following concepts are demonstrated:
 
