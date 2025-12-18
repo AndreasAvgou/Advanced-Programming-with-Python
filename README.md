@@ -4,7 +4,7 @@ This repository contains a collection Python scripts developed. The projects pro
 
 ## 📂 Repository Structure
 
-The exercises are organized into 8 modules, each focusing on specific advanced Python concepts:
+The exercises are organized into 9 modules, each focusing on specific advanced Python concepts:
 
 ---
 
