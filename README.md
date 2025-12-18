@@ -93,6 +93,18 @@ The exercises are organized into 8 modules, each focusing on specific advanced P
 
 ---
 
+### 🔹 9: Music & Social Media Sentiment Analysis 🎵
+* **Focus:** Data Merging, Sentiment Analysis (NLP), and Correlation.
+* **Description:** A comprehensive project merging music data (`songs.csv`) with user reactions (`tweets.csv`) to study the impact of audio features on sentiment.
+* **Key Features:**
+    * **Data Cleaning:** Handling missing values in both text and numeric datasets.
+    * **Sentiment Analysis:** Using **TextBlob** to calculate polarity scores for tweets.
+    * **Data Merging:** Aggregating tweet sentiment by song and merging with audio features.
+    * **Correlation:** Investigating if "Energy" or "Danceability" drives positive sentiment.
+    * **Visualization:** Scatter plots and bar charts correlating music metrics with user opinions.
+
+---
+
 ## 🛠️ Prerequisites & Installation
 
 To run these scripts, you will need **Python 3.x** and the following external libraries:
