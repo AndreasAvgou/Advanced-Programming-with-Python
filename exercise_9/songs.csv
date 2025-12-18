@@ -1,0 +1,6 @@
+﻿song_id,title,artist,genre,energy,danceability,tempo
+1,Python Groove,DJ Pandas,Electronic,0.82,0.78,128
+2,Data Science Beat,The Analysts,Hip-Hop,0.74,0.81,110
+3,AI Dreams,Neural Net,Pop,0.65,0.69,95
+4,Code All Night,Hackers,Electronic,0.9,0.85,135
+5,Debug the Rhythm,Stack Tracers,Rock,0.58,0.6,105
