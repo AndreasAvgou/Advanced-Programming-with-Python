@@ -1,4 +1,4 @@
-# 📈 Automated Investment Portfolio Management (Assignment 3)
+# 📈 Automated Investment Portfolio Management
 
 This project implements a Python-based system for financial data analysis, portfolio management, and price forecasting. It utilizes **Pandas** for time-series analysis, **OOP** for modeling financial assets, and **Scikit-Learn** for basic machine learning forecasting.
 
