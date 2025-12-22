@@ -6,7 +6,7 @@ This project implements a Python-based platform for analyzing social media trend
 
 ## 📌 Project Overview
 
-The goal of this assignment is to process a dataset of tweets (`ex1_twitter_dataset.csv`) and extract meaningful insights regarding user activity and trending topics.
+The goal of this assignment is to process a dataset of tweets (`twitter_dataset.csv`) and extract meaningful insights regarding user activity and trending topics.
 
 ### Key Features:
 * **Data Handling:** Efficient loading and cleaning of CSV data using Pandas.
@@ -22,7 +22,7 @@ The project follows a modular architecture:
 ```
 Assignment_1_Twitter/
 │
-├── ex1_twitter_dataset.csv     # The dataset file (Input)
+├── twitter_dataset.csv         # The dataset file (Input)
 ├── main.py                     # Main execution script
 ├── config.py                   # Configuration settings (paths)
 ├── data_loader.py              # Task 1: Loading & Cleaning data
@@ -43,7 +43,7 @@ pip install pandas matplotlib seaborn
 ## 🚀 How to Run
 
 1.  **Clone or Download** the repository.
-2.  Ensure `ex1_twitter_dataset.csv` is in the same directory as the Python scripts.
+2.  Ensure `twitter_dataset.csv` is in the same directory as the Python scripts.
 3.  Run the main script:
 
 ```bash
