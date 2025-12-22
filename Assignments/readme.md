@@ -11,7 +11,6 @@ Each project focuses on specific domains—Social Media, Music Analytics, Financ
 The repository is organized into four separate folders, one for each assignment:
 
 ```text
-/
 ├── Assignment_1/         # Social Media Trend Analysis
 ├── Assignment_2/         # Music Library & Genre Analytics
 ├── Assignment_3_/        # Portfolio Management & Forecasting
