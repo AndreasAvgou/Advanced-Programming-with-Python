@@ -2,7 +2,7 @@
 
 This repository contains a collection Python scripts developed. The projects progress from Object-Oriented Programming (OOP) principles to advanced data analysis, visualization, and real-time API integration.
 
-## 📂 Repository Structure
+## Repository Structure
 
 The exercises are organized into 9 modules and 4 assignments, each focusing on specific advanced Python concepts:
 
