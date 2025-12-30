@@ -113,7 +113,7 @@ To run these scripts, you will need **Python 3.x** and the following external li
 pip install pandas numpy matplotlib requests plotly
 ```
 
-## 🚀 How to Run
+## How to Run
 
 Ensure you have Python installed (version 3.x is recommended).
 
