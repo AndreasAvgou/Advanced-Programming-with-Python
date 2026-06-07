@@ -1,4 +1,11 @@
-# Advanced Programming with Python 
+<div align="center">
+<img width="532" height="333" alt="cover" src="https://github.com/user-attachments/assets/9e26c75a-a879-48ae-b15f-cf9133e7ac09" />
+
+ # Advanced Programming with Python 
+  
+</div>
+
+
 
 This repository contains a collection Python scripts developed. The projects progress from Object-Oriented Programming (OOP) principles to advanced data analysis, visualization, and real-time API integration.
 
