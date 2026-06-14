@@ -112,7 +112,7 @@ The exercises are organized into 9 modules and 4 assignments, each focusing on s
 
 ---
 
-## 🛠️ Prerequisites & Installation
+## Prerequisites & Installation
 
 To run these scripts, you will need **Python 3.x** and the following external libraries:
 
@@ -142,7 +142,7 @@ cd Advanced-Programming-with-Python
 python main.py
 ```
 
-## 📝 Key Learning Outcomes
+## Key Learning Outcomes
 Through these exercises, the following concepts are demonstrated:
 
 * Object-Oriented Design: Building robust classes to manage complex data structures.
